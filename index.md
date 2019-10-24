@@ -91,9 +91,9 @@ Computing) 对大脑活动信号的学习和仿真，对与记忆有关的大脑
 9. Li, Borui, Han Sun, Yang Gao, Vir V. Phoha, and Zhanpeng Jin. ”Enhanced free-text keystroke continuous authentication based on dynamics of wrist motion.” In 2017 IEEE Workshop on Information Forensics and Security (WIFS), pp. 1-6. IEEE, 2017.
 10. Patil, Omkar R., Yang Gao, Borui Li, and Zhanpeng Jin. ”CamBP: a camera-based, non-contact blood pressure monitor.” In Proc. 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp’17), pp. 524-529. ACM, 2017.
 11. Yang Gao, Jack P. Lombardi, Varun V. Soman, James Turner, Mark Poliks, Zhanpeng Jin. ”Ultra-Wearable Capacitive Electrode Design for Long-time Monitoring of ECG.” In Proc. 42nd Annual Northeast Biomedical Engineering Conference (NEBEC), 2016.
-12. Yang Gao, Wei Wang, Vir V Phoha, Zhanpeng Jin. ”EarEcho: Using Ear Canal Echo for Wearable Authentication.” Proc. ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2019) [under review]
-13. Borui Li, Wei Wang, Yang Gao, Vir V Phoha, Zhanpeng Jin. ”Wrist in Motion: A Seamless Context-aware Continuous Authentication Framework Using Your Clickings and Typings.” IEEE Transactions on Biometrics, Behavior, and Identity Science.[under review]
-14. Omkar Patil, Wei Wang, Yang Gao and Zhanpeng Jin. ”A Camera-Based Pulse Transit Time Approach for Non-Intrusive Blood Pressure Monitoring.” The 7th IEEE Int. Conf. Healthcare Informatics (ICHI’19). [under review]
+12. Yang Gao, Wei Wang, Vir V Phoha, Zhanpeng Jin. ”EarEcho: Using Ear Canal Echo for Wearable Authentication.” Proc. ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (2019) 
+13. Borui Li, Wei Wang, Yang Gao, Vir V Phoha, Zhanpeng Jin. ”Wrist in Motion: A Seamless Context-aware Continuous Authentication Framework Using Your Clickings and Typings.” IEEE Transactions on Biometrics, Behavior, and Identity Science.
+14. Omkar Patil, Wei Wang, Yang Gao and Zhanpeng Jin. ”A Camera-Based Pulse Transit Time Approach for Non-Intrusive Blood Pressure Monitoring.” The 7th IEEE Int. Conf. Healthcare Informatics (ICHI’19). 
 
 
 
