@@ -81,7 +81,7 @@ Computing) 对大脑活动信号的学习和仿真，对与记忆有关的大脑
 
 # 论文发表
 1. Yang Gao, Borui Li, Wei Wang, Wenyao Xu, Chi Zhou, Zanpeng Jin. ”Watching and Safeguarding Your 3D Printer: Online Process Monitoring Against Cyber-Physical Attacks.” Proc. ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2.3 (2018): 108.
-2. Yang Gao, Wei Wang, Vir V Phoha, Zhanpeng Jin. ”EarEcho: Using Ear Canal Echo for Wearable Authentication.” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 3.3 (2019): 81.
+2. Yang Gao, Wei Wang, Vir V Phoha, Zhanpeng Jin. ”EarEcho: Using Ear Canal Echo for Wearable Authentication.” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 3.3 (2019): 81. [pdf](https://github.com/truebluegy/truebluegy.github.com/blob/master/EarEcho__Using_Ear_Canal_Echo_for_Wearable_Authentication.pdf)
 3. Yang Gao, Wei Wang, Borui Li and Zhanpeng Jin. ”Replicating Your Heart: Exploring Presentation Attacks on ECG Biometrics Using Synthesized Heart Waves,” In Proc. 2018 IEEE Conf. Communications and Network Security (CNS). IEEE, 2018. 
 4. Omkar Patil, Wei Wang, Yang Gao and Zhanpeng Jin. ”A Non-Contact PPG Biometric System Based on Deep Neural Network,” In Proc. 9th IEEE Int. Conf. Biometrics: Theory, Applications, and Systems (BTAS). IEEE, 2018.
 5. Borui Li, Wei Wang, Yang Gao, Vir Phoha and Zhanpeng Jin. ”Hand in Motion: Enhanced Authentication Through Wrist and Mouse Movement,” In Proc. 9th IEEE Int. Conf. Biometrics: Theory, Applications, and Systems (BTAS). IEEE, 2018.
