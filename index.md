@@ -7,10 +7,13 @@
       <p><b>University at Buffalo, SUNY</b></p>
       <p><b>Email：ygao36@buffalo.edu</b></p>
     </td>
+    <td width="25%" height="100%">
+      <img src="https://truebluegy.github.io/IMG.jpg" width="240" height="300" />
+    </td>
   </tr>
 </table>
 
-<img src="https://truebluegy.github.io/IMG.jpg" width="240" height="300" align=right />
+
 
 # Biography
 I am the fourth-year PhD candidate in Computer Science and Engineering at the University at Buffalo, State University of New York (SUNY), supervised by <a href="www.buffalo.edu/~zjin" target="_blank"> Zhanpeng Jin.</a> at the Cyber-Med Laboratory. I received the B.S degree in Microelectronics from the University of Electrical Science and Technology of China in 2012, and the M.S. degree in Electrical Engineering from the Stevens Institute of Technology in 2014. 
