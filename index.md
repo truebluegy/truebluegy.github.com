@@ -12,7 +12,7 @@
 
 
 # Biography
-I am the fourth-year PhD candidate in Computer Science and Engineering at the University at Buffalo, State University of New York (SUNY), supervised by <a href="www.buffalo.edu/~zjin" target="_blank">[Zhanpeng Jin].</a> at the Cyber-Med Laboratory. I received the B.S degree in Microelectronics from the University of Electrical Science and Technology of China in 2012, and the M.S. degree in Electrical Engineering from the Stevens Institute of Technology in 2014. 
+I am the fourth-year PhD candidate in Computer Science and Engineering at the University at Buffalo, State University of New York (SUNY), supervised by <a href="www.buffalo.edu/~zjin" target="_blank"> Zhanpeng Jin.</a> at the Cyber-Med Laboratory. I received the B.S degree in Microelectronics from the University of Electrical Science and Technology of China in 2012, and the M.S. degree in Electrical Engineering from the Stevens Institute of Technology in 2014. 
 
 My research area involves biometric-based user identity verification, IoT sensing and security, machine learning
 and neuromorphic computing. I also have in-depth knowledge about deep learning, IoT, mobile and wearable
@@ -20,6 +20,8 @@ computing.
 
 
 # News
+
+[September 2019] Our new wearable authentication technique, **EarEcho**, was presented in the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp). This research has been reported by [_ScienceDaily_](https://www.sciencedaily.com/releases/2019/09/190918184504.htm), [_Naked Security_](https://nakedsecurity.sophos.com/2019/09/23/could-earecho-change-the-way-we-authenticate-to-our-smartphones/), [_CISOMAG_](https://www.cisomag.com/forget-passwords-these-earphones-can-unlock-your-smartphone/), [_Sky_](https://news.sky.com/story/biometric-earbuds-can-unlock-your-phone-11813878), [_New Atlas_](https://newatlas.com/good-thinking/earecho-earbud-identification/), [_Idea Connection_](https://www.ideaconnection.com/new-inventions/earecho-system-identifies-the-user's-ear-14629.html), [_Digital Trends_](https://www.digitaltrends.com/cool-tech/earecho-ear-canal-biometrics/), [_Tech Xplore_](https://techxplore.com/news/2019-09-earecho-smartphone-earbuds.html), [_Foss Bytes_](https://fossbytes.com/earecho-unlocks-smartphone-using-earbuds/), [_Gulf News_](https://gulfnews.com/technology/this-tool-could-unlock-your-smartphone-with-earbuds-1.1568884550829), [_GIZMODO_](https://gizmodo.com/researchers-think-its-a-good-idea-to-secure-your-phone-1838248232), and many others.
 
 
 
