@@ -10,7 +10,7 @@
   </tr>
 </table>
 
-`![](https://truebluegy.github.io/IMG.jpg)`
+；![](https://truebluegy.github.io/IMG.jpg)
 
 
 # Biography
