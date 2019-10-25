@@ -29,22 +29,25 @@ My research area involves biometric-based user identity verification, IoT sensin
 
 
 
-# Publications
+# Selected Publications
 
 1. Yang Gao, Borui Li, Wei Wang, Wenyao Xu, Chi Zhou, Zanpeng Jin. ”Watching and Safeguarding Your 3D Printer: Online Process Monitoring Against Cyber-Physical Attacks.” Proc. ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2.3 (2018): 108. <a href="https://www.researchgate.net/profile/Wenyao_Xu2/publication/327760995_Watching_and_Safeguarding_Your_3D_Printer_Online_Process_Monitoring_Against_Cyber-Physical_Attacks/links/5bab9dcba6fdccd3cb764ebb/Watching-and-Safeguarding-Your-3D-Printer-Online-Process-Monitoring-Against-Cyber-Physical-Attacks.pdf" target="_blank">[pdf].</a>
+
 2. Yang Gao, Wei Wang, Vir V Phoha, Zhanpeng Jin. ”EarEcho: Using Ear Canal Echo for Wearable Authentication.” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 3.3 (2019): 81. <a href="https://truebluegy.github.io/EarEcho__Using_Ear_Canal_Echo_for_Wearable_Authentication.pdf" target="_blank">[pdf].</a>
-3. Yang Gao, Wei Wang, Borui Li and Zhanpeng Jin. ”Replicating Your Heart: Exploring Presentation Attacks on ECG Biometrics Using Synthesized Heart Waves,” In Proc. 2018 IEEE Conf. Communications and Network Security (CNS). IEEE, 2018. 
-4. Omkar Patil, Wei Wang, Yang Gao and Zhanpeng Jin. ”A Non-Contact PPG Biometric System Based on Deep Neural Network,” In Proc. 9th IEEE Int. Conf. Biometrics: Theory, Applications, and Systems (BTAS). IEEE, 2018.
-5. Borui Li, Wei Wang, Yang Gao, Vir Phoha and Zhanpeng Jin. ”Hand in Motion: Enhanced Authentication Through Wrist and Mouse Movement,” In Proc. 9th IEEE Int. Conf. Biometrics: Theory, Applications, and Systems (BTAS). IEEE, 2018.
-6. Wang, Wei, Yang Gao, and Zhanpeng Jin. ”Interpretive Reservoir: A Preliminary Study on The Association Between Artificial Neural Network and Biological Neural Network.” In Proc. 2018 International Joint Conference on Neural Networks (IJCNN), pp. 1-8. IEEE, 2018.
-7. Patil, Omkar R., Wei Wang, Yang Gao, Wenyao Xu, and Zhanpeng Jin. ”A low-cost, camera-based continuous PPG monitoring system using Laplacian pyramid.” Smart Health 9 (2018): 2-11.
-8. Yang, Wei, Wei Wang, Yang Gao, and Zhanpeng Jin. ”An Embedded Tracking System with Neural Network Accelerator.” In Proc. 2018 International Joint Conference on Neural Networks (IJCNN), pp. 1-7. IEEE, 2018.
-9. Yang, Wei, Wei Wang, Yang Gao, and Zhanpeng Jin. ”A Comparative Study of Object Tracking using CNN and SDAE.” In Proc. 2018 International Joint Conference on Neural Networks (IJCNN), pp. 1-6. IEEE, 2018.
-10. Li, Borui, Han Sun, Yang Gao, Vir V. Phoha, and Zhanpeng Jin. ”Enhanced free-text keystroke continuous authentication based on dynamics of wrist motion.” In 2017 IEEE Workshop on Information Forensics and Security (WIFS), pp. 1-6. IEEE, 2017.
-11. Patil, Omkar R., Yang Gao, Borui Li, and Zhanpeng Jin. ”CamBP: a camera-based, non-contact blood pressure monitor.” In Proc. 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp’17), pp. 524-529. ACM, 2017.
-12. Yang Gao, Jack P. Lombardi, Varun V. Soman, James Turner, Mark Poliks, Zhanpeng Jin. ”Ultra-Wearable Capacitive Electrode Design for Long-time Monitoring of ECG.” In Proc. 42nd Annual Northeast Biomedical Engineering Conference (NEBEC), 2016.
-13. Borui Li, Wei Wang, Yang Gao, Vir V Phoha, Zhanpeng Jin. ”Wrist in Motion: A Seamless Context-aware Continuous Authentication Framework Using Your Clickings and Typings.” IEEE Transactions on Biometrics, Behavior, and Identity Science.
-14. Omkar Patil, Wei Wang, Yang Gao and Zhanpeng Jin. ”A Camera-Based Pulse Transit Time Approach for Non-Intrusive Blood Pressure Monitoring.” The 7th IEEE Int. Conf. Healthcare Informatics (ICHI’19). 
+
+3. Yang Gao, Varun V. Soman, Jack P. Lombardi, Pravakar P. Rajbhandari, Tara P. Dhakal, Dale Wilson, Mark Poliks, Kanad Ghose, James N. Turner, Zhanpeng Jin. "Heart Monitor Using Flexible Capacitive ECG Electrodes." To appear in IEEE TIM 2019. 
+
+4. Yang Gao, Wei Wang, Borui Li and Zhanpeng Jin. ”Replicating Your Heart: Exploring Presentation Attacks on ECG Biometrics Using Synthesized Heart Waves,” In Proc. 2018 IEEE Conf. Communications and Network Security (CNS). IEEE, 2018. 
+
+5. Omkar Patil, Wei Wang, Yang Gao and Zhanpeng Jin. ”A Non-Contact PPG Biometric System Based on Deep Neural Network,” In Proc. 9th IEEE Int. Conf. Biometrics: Theory, Applications, and Systems (BTAS). IEEE, 2018.
+
+6. Borui Li, Wei Wang, Yang Gao, Vir Phoha and Zhanpeng Jin. ”Hand in Motion: Enhanced Authentication Through Wrist and Mouse Movement,” In Proc. 9th IEEE Int. Conf. Biometrics: Theory, Applications, and Systems (BTAS). IEEE, 2018.
+
+7. Li, Borui, Han Sun, Yang Gao, Vir V. Phoha, and Zhanpeng Jin. ”Enhanced free-text keystroke continuous authentication based on dynamics of wrist motion.” In 2017 IEEE Workshop on Information Forensics and Security (WIFS), pp. 1-6. IEEE, 2017.
+
+8. Patil, Omkar R., Yang Gao, Borui Li, and Zhanpeng Jin. ”CamBP: a camera-based, non-contact blood pressure monitor.” In Proc. 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp’17), pp. 524-529. ACM, 2017.
+
+
 
 
 
