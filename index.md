@@ -49,7 +49,9 @@ computing.
 
 # Teaching
 [2018 Spring] Teaching Assistant, SUNY UB. _EAS200 Electric concepts for non-majors_
+
 [2018 Fall] Teaching Assistant, SUNY UB. _CSE574 Machine Learning_
+
 [2019 Spring] Teaching Assistant, SUNY UB. _CSE341 Computer Organization_
 
 
