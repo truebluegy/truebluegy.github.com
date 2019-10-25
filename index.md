@@ -37,7 +37,7 @@ My research area involves biometric-based user identity verification, IoT sensin
 
 3. Yang Gao, Varun V. Soman, Jack P. Lombardi, Pravakar P. Rajbhandari, Tara P. Dhakal, Dale Wilson, Mark Poliks, Kanad Ghose, James N. Turner, Zhanpeng Jin. "Heart Monitor Using Flexible Capacitive ECG Electrodes." To appear in IEEE TIM 2019. 
 
-4. Yang Gao, Wei Wang, Borui Li and Zhanpeng Jin. ”Replicating Your Heart: Exploring Presentation Attacks on ECG Biometrics Using Synthesized Heart Waves,” In Proc. 2018 IEEE Conf. Communications and Network Security (CNS). IEEE, 2018. 
+4. Yang Gao, Wei Wang, Borui Li and Zhanpeng Jin. ”Replicating Your Heart: Exploring Presentation Attacks on ECG Biometrics Using Synthesized Heart Waves,” In Proc. 2018 IEEE Conf. Communications and Network Security (CNS). IEEE, 2018. <a href="https://truebluegy.github.io/CNS_2018_replicating_your_heart_updated.pdf" target="_blank">[pdf].</a>
 
 5. Omkar Patil, Wei Wang, Yang Gao and Zhanpeng Jin. ”A Non-Contact PPG Biometric System Based on Deep Neural Network,” In Proc. 9th IEEE Int. Conf. Biometrics: Theory, Applications, and Systems (BTAS). IEEE, 2018.
 
