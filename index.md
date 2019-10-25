@@ -7,7 +7,7 @@
       <p><b>University at Buffalo, SUNY</b></p>
       <p><b>Email：ygao36@buffalo.edu</b></p>
     </td>
-    <td width="30%" height="70%">
+    <td width="30%" height="75%">
       <img src="https://truebluegy.github.io/IMG.jpg" width="240" height="300" />
     </td>
   </tr>
