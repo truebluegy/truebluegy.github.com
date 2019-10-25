@@ -16,11 +16,13 @@
 
 
 # Biography
+
 I am the fourth-year PhD candidate in Computer Science and Engineering at the University at Buffalo, State University of New York (SUNY), supervised by <a href="www.buffalo.edu/~zjin" target="_blank"> Zhanpeng Jin.</a> at the Cyber-Med Laboratory. I received the B.S degree in Microelectronics from the University of Electrical Science and Technology of China in 2012, and the M.S. degree in Electrical Engineering from the Stevens Institute of Technology in 2014. 
 
 My research area involves biometric-based user identity verification, IoT sensing and security, machine learning
 and neuromorphic computing. I also have in-depth knowledge about deep learning, IoT, mobile and wearable
 computing. 
+
 
 
 # News
@@ -30,6 +32,7 @@ computing.
 
 
 # Publications
+
 1. Yang Gao, Borui Li, Wei Wang, Wenyao Xu, Chi Zhou, Zanpeng Jin. ”Watching and Safeguarding Your 3D Printer: Online Process Monitoring Against Cyber-Physical Attacks.” Proc. ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2.3 (2018): 108. <a href="https://www.researchgate.net/profile/Wenyao_Xu2/publication/327760995_Watching_and_Safeguarding_Your_3D_Printer_Online_Process_Monitoring_Against_Cyber-Physical_Attacks/links/5bab9dcba6fdccd3cb764ebb/Watching-and-Safeguarding-Your-3D-Printer-Online-Process-Monitoring-Against-Cyber-Physical-Attacks.pdf" target="_blank">[pdf].</a>
 2. Yang Gao, Wei Wang, Vir V Phoha, Zhanpeng Jin. ”EarEcho: Using Ear Canal Echo for Wearable Authentication.” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 3.3 (2019): 81. <a href="https://truebluegy.github.io/EarEcho__Using_Ear_Canal_Echo_for_Wearable_Authentication.pdf" target="_blank">[pdf].</a>
 3. Yang Gao, Wei Wang, Borui Li and Zhanpeng Jin. ”Replicating Your Heart: Exploring Presentation Attacks on ECG Biometrics Using Synthesized Heart Waves,” In Proc. 2018 IEEE Conf. Communications and Network Security (CNS). IEEE, 2018. 
@@ -48,7 +51,7 @@ computing.
 
 
 # Teaching
-* [2019 Spring&Fall] Teaching Assistant, SUNY UB. _CSE341 Computer Organization_
+* [2019 Spring & Fall] Teaching Assistant, SUNY UB. _CSE341 Computer Organization_
 
 * [2018 Fall] Teaching Assistant, SUNY UB. _CSE574 Machine Learning_
 
