@@ -31,9 +31,9 @@ My research area involves biometric-based user identity verification, IoT sensin
 
 # Selected Publications
 
-1. Yang Gao, Borui Li, Wei Wang, Wenyao Xu, Chi Zhou, Zanpeng Jin. ”Watching and Safeguarding Your 3D Printer: Online Process Monitoring Against Cyber-Physical Attacks.” Proc. ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2.3 (2018): 108. <a href="https://www.researchgate.net/profile/Wenyao_Xu2/publication/327760995_Watching_and_Safeguarding_Your_3D_Printer_Online_Process_Monitoring_Against_Cyber-Physical_Attacks/links/5bab9dcba6fdccd3cb764ebb/Watching-and-Safeguarding-Your-3D-Printer-Online-Process-Monitoring-Against-Cyber-Physical-Attacks.pdf" target="_blank">[pdf].</a>
+1. Yang Gao, Wei Wang, Vir V Phoha, Zhanpeng Jin. ”EarEcho: Using Ear Canal Echo for Wearable Authentication.” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 3.3 (2019): 81. <a href="https://truebluegy.github.io/EarEcho__Using_Ear_Canal_Echo_for_Wearable_Authentication.pdf" target="_blank">[pdf].</a>
 
-2. Yang Gao, Wei Wang, Vir V Phoha, Zhanpeng Jin. ”EarEcho: Using Ear Canal Echo for Wearable Authentication.” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 3.3 (2019): 81. <a href="https://truebluegy.github.io/EarEcho__Using_Ear_Canal_Echo_for_Wearable_Authentication.pdf" target="_blank">[pdf].</a>
+2. Yang Gao, Borui Li, Wei Wang, Wenyao Xu, Chi Zhou, Zanpeng Jin. ”Watching and Safeguarding Your 3D Printer: Online Process Monitoring Against Cyber-Physical Attacks.” Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 2.3 (2018): 108. <a href="https://www.researchgate.net/profile/Wenyao_Xu2/publication/327760995_Watching_and_Safeguarding_Your_3D_Printer_Online_Process_Monitoring_Against_Cyber-Physical_Attacks/links/5bab9dcba6fdccd3cb764ebb/Watching-and-Safeguarding-Your-3D-Printer-Online-Process-Monitoring-Against-Cyber-Physical-Attacks.pdf" target="_blank">[pdf].</a>
 
 3. Yang Gao, Varun V. Soman, Jack P. Lombardi, Pravakar P. Rajbhandari, Tara P. Dhakal, Dale Wilson, Mark Poliks, Kanad Ghose, James N. Turner, Zhanpeng Jin. "Heart Monitor Using Flexible Capacitive ECG Electrodes." To appear in IEEE TIM 2019. 
 
