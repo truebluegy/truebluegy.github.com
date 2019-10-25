@@ -48,7 +48,7 @@ computing.
 
 
 # Teaching
-* [2019 Spring] Teaching Assistant, SUNY UB. _CSE341 Computer Organization_
+* [2019 Spring&Fall] Teaching Assistant, SUNY UB. _CSE341 Computer Organization_
 
 * [2018 Fall] Teaching Assistant, SUNY UB. _CSE574 Machine Learning_
 
