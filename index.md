@@ -10,6 +10,8 @@
   </tr>
 </table>
 
+![](https://truebluegy.github.io/IMG.jpg)
+
 
 # Biography
 I am the fourth-year PhD candidate in Computer Science and Engineering at the University at Buffalo, State University of New York (SUNY), supervised by <a href="www.buffalo.edu/~zjin" target="_blank"> Zhanpeng Jin.</a> at the Cyber-Med Laboratory. I received the B.S degree in Microelectronics from the University of Electrical Science and Technology of China in 2012, and the M.S. degree in Electrical Engineering from the Stevens Institute of Technology in 2014. 
