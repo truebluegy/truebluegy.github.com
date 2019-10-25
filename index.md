@@ -1,13 +1,13 @@
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="70%">
       <h1>Yang Gao</h1>
       <p><b>PhD Candidate</b></p>
       <p><b>Department of Computer Science & Engineering</b></p>
       <p><b>University at Buffalo, SUNY</b></p>
       <p><b>Email：ygao36@buffalo.edu</b></p>
     </td>
-    <td width="40%" height="100%">
+    <td width="30%" height="80%">
       <img src="https://truebluegy.github.io/IMG.jpg" width="240" height="300" />
     </td>
   </tr>
