@@ -23,7 +23,7 @@ My research area involves biometric-based user identity verification, IoT sensin
 and neuromorphic computing. I also have in-depth knowledge about deep learning, IoT, mobile and wearable
 computing. 
 
-
+<a href="https://scholar.google.com/citations?user=Y-hsodAAAAAJ&hl=en" target="_blank"> Google Scholar.</a>
 
 # News
 
